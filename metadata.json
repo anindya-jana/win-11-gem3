@@ -1,0 +1,7 @@
+{
+  "name": "Win11 Web Clone",
+  "description": "A functional Windows 11 clone in the browser featuring a window manager, start menu, taskbar, and functional apps like Calculator, Browser, Tic Tac Toe, and an AI Copilot powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
